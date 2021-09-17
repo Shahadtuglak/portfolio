@@ -152,5 +152,7 @@ a {
 @media (min-width: 1024px) {
   #about {
     padding: 6rem 0 6rem 0;
+    margin-left:5px;
+    margin-right:5px;
   }
 }
